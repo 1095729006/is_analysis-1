@@ -2,7 +2,6 @@
 郭耀文第一次实验
 学号  201510414404
 PlantUML源码如下：（考试及成绩管理流程）
-
 @startuml
 |教务处|
 start
@@ -14,7 +13,6 @@ split
 #HotPink:A、B试卷;
 split again
 #HotPink:打印审批表;
-
 |系主任|
 :审批签字;
 #HotPink:打印审批表;
